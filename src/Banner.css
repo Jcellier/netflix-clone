@@ -1,7 +1,7 @@
 .banner {
 	color: white;
 	object-fit: contain;
-	height: 90vh;
+	height: 80vh;
 	/* 90vh for height tbc or 448px */
 }
 
@@ -50,7 +50,7 @@
 .banner--fadeBottom {
 	margin-left: -30px;
 	padding-right: 30px;
-	margin-top: 21rem;
+	margin-top: 19rem;
 	width: 100%;
 	height: 7.4rem;
 	background-image: linear-gradient(
